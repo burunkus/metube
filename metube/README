@@ -1,8 +1,8 @@
-# Database Management Systems Project - Spring 2019
+#Database Management Systems Project - Spring 2019
 
 MeTube is a modified version of the popular youtube.com, MeTube allows for more multimedia options like audio, gifs and images.
 
-# When sigined in users can: 
+#When sigined in users can: 
 - Set media view access when they upload files and after they have uploaded
 - Block any user in the meTube system from viewing their file
 - Add friends to contacts and message anyone in their contact list

@@ -1,5 +1,5 @@
 # MeTube
-Database Management Systems Project - Spring 2019
+Database Management Systems Project - Spring 2019. 
 MeTube is a modified version of the popular youtube.com, MeTube allows for more multimedia options like audio, gifs and images.
 
 # When sigined in users can: 

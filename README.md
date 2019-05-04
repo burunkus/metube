@@ -1,6 +1,5 @@
-# metube
-# Database Management Systems Project - Spring 2019
-
+# MeTube
+Database Management Systems Project - Spring 2019
 MeTube is a modified version of the popular youtube.com, MeTube allows for more multimedia options like audio, gifs and images.
 
 # When sigined in users can: 
@@ -20,4 +19,4 @@ MeTube is a modified version of the popular youtube.com, MeTube allows for more 
 - Search the meTube system by keywords or by word cloud
 - etc...
 
-view meTube here http://mademetube.com
+view MeTube here http://mademetube.com

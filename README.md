@@ -6,7 +6,7 @@ MeTube is a modified version of the popular youtube.com, MeTube allows for more 
 - You will need MySQL
 - create the tables located at metube/sql_queries
 - configure your database at metube/php_scripts/sql_functions.php
-- open localhost in your browser navigate to index.php
+- open localhost in your browser, navigate to index.php
 
 # When sigined in users can: 
 - Set media view access when they upload files and after they have uploaded

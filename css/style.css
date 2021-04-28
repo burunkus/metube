@@ -1,7 +1,7 @@
 /*
 * General
 */
-html, main {  /*remember this change. I am removing the body from here...*/
+html, main {  
     height: 100%;
     margin: 0;
     padding: 0;
@@ -11,7 +11,7 @@ html, main {  /*remember this change. I am removing the body from here...*/
 
 body {
     background: #fafafa;
-    min-height: 100%; /*...and adding this here*/
+    min-height: 100%; 
     line-height: 1.1;
     color: #333;
     font-family: 'Times New Roman', 'Aerial', 'Serif';
@@ -363,7 +363,6 @@ footer .footer_inner p:last-child {
 }
 
 .header-nav .hamburger-wrapper {
-    /*flex: 0 1 auto; maybe try changing using in media query when screen is small*/
     margin-right: 5px;
 }
 
@@ -913,7 +912,7 @@ main {
 }
 
 .signedin-wrapper {
-    display: block;   /*without this we can't get the with and add proper offset with in JS*/
+    display: block;   
     visibility: hidden;
     position: fixed;
     top: 9px;

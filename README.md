@@ -2,6 +2,12 @@
 Database Management Systems Project - Spring 2019. 
 MeTube is a modified version of the popular youtube.com, MeTube allows for more multimedia options like audio, gifs and images.
 
+#To get started
+- This program requires MySQL
+- create the tables located at metube/sql_queries
+- configure your database at metube/
+- open localhost in your browser navigate to index.php
+
 # When sigined in users can: 
 - Set media view access when they upload files and after they have uploaded
 - Block any user in the meTube system from viewing their file

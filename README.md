@@ -8,6 +8,12 @@ MeTube is a modified version of the popular youtube.com, MeTube allows for more 
 - configure your database at metube/php_scripts/sql_functions.php
 - open localhost in your browser, navigate to index.php
 
+# TODO
+- Recover password
+- Display dates properly
+- Allow users upload picture of their video/image etc instead of the static images being used
+- Nested comments
+
 # When sigined in users can: 
 - Set media view access when they upload files and after they have uploaded
 - Block any user in the meTube system from viewing their file

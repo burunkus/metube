@@ -11,7 +11,7 @@ MeTube is a modified version of the popular youtube.com, MeTube allows for more 
 # TODO
 - Recover password
 - Display dates properly
-- Allow users upload picture of their video/image etc instead of the static images being used
+- Allow users to upload a picture of their video/image etc. The application currently uses static files when images/video ect are uploaded
 - Nested comments
 
 # When sigined in users can: 
